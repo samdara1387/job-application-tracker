@@ -1,8 +1,6 @@
 # job-application-tracker
 A Python application for recording, searching, and updating job applications with JSON storage.
-# Job Application Tracker
 
-A Python command-line application for keeping track of job applications.
 
 ## Features
 
